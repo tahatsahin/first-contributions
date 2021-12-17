@@ -61,6 +61,7 @@ Jawadur
 - [Brian N. Smith](https://github.com/nuonce)
 - Harsha Vardhan(thunder07)
 - [ZMN](https://github.com/Zin-Mg-Nyunt)
+- [Taha Turgut Şahin](https://github.com/tahatsahin)
 - Alejandro Rodriguez(Vzla)
 - [Zac Driscoll]
 - Reva Vijayn
